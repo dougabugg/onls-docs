@@ -1,0 +1,2 @@
+# Studio Web App
+ The studio web app does not have to handle many concurrent users, and should be flexible, extensible, and modular. I think writing the backend in Python is a good starting point. I'm not too worried about security right now, since the plan is for only a small number of collaborators to have access to the web app. But I still plan on having a robust permission system to allow/deny what actions users can do.
